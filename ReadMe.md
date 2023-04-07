@@ -3,7 +3,7 @@
 <br />
 
 ## Exercises
-| # |    Title    |
-|---| ----------- |
+| # |    Title    |   Solution   |  
+|---| ----------- | ------------ |
 |01| [Character Input](https://www.practicepython.org/exercise/2014/01/29/01-character-input.html) | [Solution](./Exercises/01CharacterInput.py)
 
